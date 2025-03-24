@@ -1,0 +1,2 @@
+Iterations; P1 Algorithm; P1 Parameters; P1 Wins %; P1 Avg Moves per Game; P1 Avg Time Mico. Secs; P1 Power in mJ; P1 Avg MTSC Nodes Explored; P1 Strategies; P2 Algorithm; P2 Parameters; P2 Wins %; P2 Avg Moves per Game; P2 Avg Time Mico. Secs; P2 Power in mJ; P2 Avg MTSC Nodes Explored; P2 Strategies; No of Draws; Why we doing this? What do we hope to see
+1000;02 MCTS; 1000; 16.1; 14.004; 248342.088883; null; 4322.01;null; 02 MCTS+01 NAIVE; 1000; 83.0; 13.843; 419477.930806; null; 4243.002; [97, 37, 126, 78, -41]; 0.8999999999999999; null
